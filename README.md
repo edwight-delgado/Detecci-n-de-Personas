@@ -4,6 +4,9 @@
 Este proyecto es una implementación de detección de personas utilizando OpenCV y YOLO como modelo de detección de objetos en Python. 
 El programa mostrará la detección y conteo de personas en tiempo real y muestra el total de personas en la escenas
 
+![las condes](output.gif)
+
+
 ## Requisitos
 
 - Python 3.6 o superior
@@ -38,7 +41,5 @@ Este proyecto fue creado por Edwight Delgado y se basa en el trabajo de [ultraly
 
 Si deseas contribuir a este proyecto, por favor envía un pull request.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
